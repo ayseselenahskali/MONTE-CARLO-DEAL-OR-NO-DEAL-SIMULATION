@@ -40,3 +40,26 @@ MONTE CARLO SIMULATION DEAL OR NO DEAL
 • k =Sensitivity of the player’s decision-making, suggested value: **5**.
  Students can implement this function in Python or VBA and test different offer strate
 gies to determine which results in the lowest average payout for the bank.
+
+Data Collection
+ Coding
+ Identifying and generating the five-box
+ setup. Randomized selection of mone
+tary values.
+
+ Implementing Monte Carlo simula
+tion and the sigmoid acceptance func
+tion. Requires basic programming in
+ Python/VBA.
+ 
+ Optimization / Decision
+ Analysis
+
+ Testing different offer strategies to de
+termine the optimal one for minimizing
+ the bank’s payout.,
+ 
+ Visualization and Re
+porting
+Presenting results using tables and
+ graphs to compare different strategies.
